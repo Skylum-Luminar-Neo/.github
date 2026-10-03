@@ -4,11 +4,7 @@
   <img src="https://media.macphun.com/img/uploads/customer/blog/960/17349558866769536e30e063.53879402.jpg" alt="Luminar Neo Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://skylum-luminar-neo.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_Luminar_Neo-blue?style=for-the-badge&logo=github" alt="Get Luminar Neo"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://ilmaettazaornna.github.io/.github/Skylum-Luminar-Neo)
 
 ---
 
